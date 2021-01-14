@@ -2,20 +2,17 @@
   "name": "academy-extension-pack",
   "displayName": "academy-extension-pack",
   "description": "A set of 'blessed' extensions for scholars at Academy.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.52.0"
-  },
-  "repository": {
-    "url": "https://github.com/WeAreAcademy/academy-extension-pack"
-  },
-  "homepage": "https://github.com/WeAreAcademy/academy-extension-pack",
+  "author": "Neill Bogie <neillbogie@googlemail.com>",
   "bugs": {
     "url": "https://github.com/WeAreAcademy/academy-extension-pack/issues"
   },
   "categories": [
     "Extension Packs"
   ],
+  "contributors": [],
+  "engines": {
+    "vscode": "^1.52.0"
+  },
   "extensionPack": [
     "CoenraadS.bracket-pair-colorizer-2",
     "esbenp.prettier-vscode",
@@ -27,5 +24,12 @@
     "mtxr.sqltools-driver-pg",
     "ritwickdey.LiveServer",
     "sleistner.vscode-fileutils"
-  ]
+  ],
+  "homepage": "https://github.com/WeAreAcademy/academy-extension-pack",
+  "license": "MIT",
+  "publisher": "TheAcademy",
+  "repository": {
+    "url": "https://github.com/WeAreAcademy/academy-extension-pack"
+  },
+  "version": "0.0.2"
 }
