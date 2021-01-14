@@ -1,16 +1,17 @@
-# README
+# README for extension pack "academy-extension-pack"
 
-## This is the README for your extension pack "academy-extension-pack"
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+A collection of blessed vs code extensions for work in Academy.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Extensions Included
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+* [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code. 
+* Live Server ritwickdey.liveserver
+* Live Share ms-vsliveshare.vsliveshare
+* Prettier esbenp.prettier-vscode
+* SqlTools mtxr.sqltools
+* Postgres Driver for SqlTools mtxr.sqltools-driver-pg
+* vscode-sql-template-literal forbeslindesay.vscode-sql-template-literal
+* Jest Runner firsttris.vscode-jest-runner
+* Python ms-python.python
+* Bracket Pair Colorizer coenraads.bracket-pair-colorizer-2
