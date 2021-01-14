@@ -6,6 +6,13 @@
   "engines": {
     "vscode": "^1.52.0"
   },
+  "repository": {
+    "url": "https://github.com/WeAreAcademy/academy-extension-pack"
+  },
+  "homepage": "https://github.com/WeAreAcademy/academy-extension-pack",
+  "bugs": {
+    "url": "https://github.com/WeAreAcademy/academy-extension-pack/issues"
+  },
   "categories": [
     "Extension Packs"
   ],
