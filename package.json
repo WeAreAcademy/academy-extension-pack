@@ -1,0 +1,53 @@
+{
+    "name": "academy-extension-pack",
+    "displayName": "academy-extension-pack",
+    "description": "A set of 'blessed' extensions for scholars at Academy. ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "74th.monokai-charcoal-high-contrast", 
+        "adpyke.codesnap", 
+        "bradymholt.pgformatter", 
+        "circledev.glsl-canvas", 
+        "ckolkman.vscode-postgres", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dsznajder.es7-react-js-snippets", 
+        "EFanZh.graphviz-preview", 
+        "esbenp.prettier-vscode", 
+        "firsttris.vscode-jest-runner", 
+        "forbeslindesay.vscode-sql-template-literal", 
+        "formulahendry.auto-rename-tag", 
+        "formulahendry.code-runner", 
+        "glitch.glitch", 
+        "GraphQL.vscode-graphql", 
+        "humao.rest-client", 
+        "jeff-hykin.polacode-2019", 
+        "jpoissonnier.vscode-styled-components", 
+        "kleber-swf.unity-code-snippets", 
+        "lextudio.restructuredtext", 
+        "mechatroner.rainbow-csv", 
+        "mikestead.dotenv", 
+        "ms-python.python", 
+        "ms-toolsai.jupyter", 
+        "ms-vscode.cpptools", 
+        "ms-vsliveshare.vsliveshare", 
+        "mtxr.sqltools", 
+        "mtxr.sqltools-driver-pg", 
+        "njpwerner.autodocstring", 
+        "planbcoding.vscode-react-refactor", 
+        "ritwickdey.LiveServer", 
+        "s3gf4ult.monokai-vibrant", 
+        "sanfilippopablo.react-component-refactor", 
+        "sleistner.vscode-fileutils", 
+        "slevesque.shader", 
+        "WallabyJs.quokka-vscode", 
+        "wesbos.theme-cobalt2", 
+        "wmaurer.change-case", 
+        "xabikos.ReactSnippets"
+    ]
+}
