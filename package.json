@@ -1,9 +1,9 @@
 {
   "name": "academy-extension-pack",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "academy",
   "engines": {
-    "vscode": "^1.52.0"
+    "vscode": "^1.43.2"
   },
   "license": "MIT",
   "displayName": "Academy Extension Pack",

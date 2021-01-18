@@ -6,4 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.5] - 2021-01-18
+
+Relax vscode version requirements
+
+## [0.0.4] - 2021-01-18
+
+Initial release
