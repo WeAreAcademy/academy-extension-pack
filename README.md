@@ -15,3 +15,4 @@ A collection of blessed VS Code extensions for work in Academy.
 - [Jest Runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer-2)
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)

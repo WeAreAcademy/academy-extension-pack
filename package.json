@@ -1,6 +1,6 @@
 {
   "name": "academy-extension-pack",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "academy",
   "engines": {
     "vscode": "^1.43.2"
@@ -24,6 +24,7 @@
     "ms-vsliveshare.vsliveshare",
     "mtxr.sqltools",
     "mtxr.sqltools-driver-pg",
+    "oderwat.indent-rainbow",
     "ritwickdey.LiveServer"
   ],
   "bugs": {

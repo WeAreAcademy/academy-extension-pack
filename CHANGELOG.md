@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.6] - 2021-01-18
+
+Add indent-rainbow
+
 ## [0.0.5] - 2021-01-18
 
 Relax vscode version requirements
