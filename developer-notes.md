@@ -22,6 +22,17 @@ This `F5` is, I think, `Debug: Start Debugging`. It's not clear what context the
 
 - You can load vscode with all extensions disabled: `code --disable-extensions .` but that's not the same as having them appear uninstalled.
 
+### Options for testing from clean:
+
+- Move aside relevant dotfiles so vscode thinks its a fresh install
+- Create new system user
+- Test on sandboxes like [oreilly katacoda](https://www.katacoda.com/)
+
+## Publishing
+
+The Azure DevOps config path that the docs recommends in order to get a personal access token seems heavy-weight. A quicker alternative is to register and upload a packaged extension using
+["Manage Publishers & Extensions"](https://marketplace.visualstudio.com/manage/publishers/) part of the marketplace site. That won't support CI but this extension shouldn't need many updates.
+
 ## Troubleshooting
 
 `Developer: Show Running Extensions`
