@@ -9,7 +9,6 @@
   "categories": [
     "Extension Packs"
   ],
-  "contributors": [],
   "engines": {
     "vscode": "^1.52.0"
   },
@@ -22,14 +21,13 @@
     "ms-vsliveshare.vsliveshare",
     "mtxr.sqltools",
     "mtxr.sqltools-driver-pg",
-    "ritwickdey.LiveServer",
-    "sleistner.vscode-fileutils"
+    "ritwickdey.LiveServer"
   ],
   "homepage": "https://github.com/WeAreAcademy/academy-extension-pack",
   "license": "MIT",
-  "publisher": "TheAcademy",
+  "publisher": "academy",
   "repository": {
     "url": "https://github.com/WeAreAcademy/academy-extension-pack"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }
