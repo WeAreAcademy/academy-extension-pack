@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.7] - 2022-05-28
+
+Remove python
+Add eslint
+Add File Utils
+
 ## [0.0.6] - 2021-01-18
 
 Add indent-rainbow

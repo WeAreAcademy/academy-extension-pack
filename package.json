@@ -1,6 +1,6 @@
 {
   "name": "academy-extension-pack",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "academy",
   "engines": {
     "vscode": "^1.43.2"
@@ -17,15 +17,16 @@
   ],
   "extensionPack": [
     "CoenraadS.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
     "forbeslindesay.vscode-sql-template-literal",
-    "ms-python.python",
     "ms-vsliveshare.vsliveshare",
     "mtxr.sqltools",
     "mtxr.sqltools-driver-pg",
     "oderwat.indent-rainbow",
-    "ritwickdey.LiveServer"
+    "ritwickdey.LiveServer",
+    "sleistner.vscode-fileutils"
   ],
   "bugs": {
     "url": "https://github.com/WeAreAcademy/academy-extension-pack/issues"
