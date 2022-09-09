@@ -1,6 +1,6 @@
 {
   "name": "academy-extension-pack",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "academy",
   "engines": {
     "vscode": "^1.43.2"
@@ -26,7 +26,8 @@
     "mtxr.sqltools-driver-pg",
     "oderwat.indent-rainbow",
     "ritwickdey.LiveServer",
-    "sleistner.vscode-fileutils"
+    "sleistner.vscode-fileutils",
+    "mattpocock.ts-error-translator"
   ],
   "bugs": {
     "url": "https://github.com/WeAreAcademy/academy-extension-pack/issues"
